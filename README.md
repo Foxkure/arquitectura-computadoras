@@ -8,8 +8,12 @@ Este proyecto es una presentación educativa sobre los fundamentos de la arquite
 - Historia y antecedentes: Charles Babbage, ENIAC, evolución del cómputo.
 - Arquitectura de Von Neumann: diseño y legado.
 - Clasificación de Flynn: tipos de arquitecturas (SISD, SIMD, MISD, MIMD).
-- Ejemplos prácticos para cada tipo de arquitectura.
+- Tipos de Arquitectura.
+- Componentes principales de la computadora.
+- Ventajas de conocer la arquitectura.
+- Línea del tiempo de las arquitecturas.
 - Referencias bibliográficas.
+
 
 ## 💻 Estructura
 
